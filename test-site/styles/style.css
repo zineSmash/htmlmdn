@@ -1,0 +1,65 @@
+html {
+    font-size: 14px;
+    font-family: "Noto Sans KR", sans-serif;
+    background-color: #00539f;
+}
+
+h1 {
+    margin:0;
+    padding: 0;
+    color: #00539f;
+    text-shadow: 2px 2px 4px black;
+    /* font-size: 60px;
+    text-align: center; */
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+/* body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+} */
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.done {
+    color: darkseagreen;
+    text-decoration: line-through solid black 2px;
+}
+
+.noto-sans-kr-unique {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.mainBorder {
+    width: 80%;
+    margin-left: auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+.hostingList {
+    width: 20%;
+    margin-right: auto;
+    background-color: #ff9500;
+    padding: 20px;
+    border: 5px solid black;
+    margin-top: 20px;
+}
